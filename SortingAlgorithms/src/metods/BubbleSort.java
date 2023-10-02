@@ -1,6 +1,7 @@
-package metods.impl;
-import metods.SortAlgorithm;
+package metods;
 
+
+import metods.inter.SortAlgorithm;
 
 public class BubbleSort implements SortAlgorithm {
 

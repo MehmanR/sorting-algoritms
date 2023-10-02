@@ -1,6 +1,7 @@
-package metods.impl;
+package metods;
 
-import metods.SortAlgorithm;
+
+import metods.inter.SortAlgorithm;
 
 public class InsertionSort implements SortAlgorithm {
     @Override

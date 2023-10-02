@@ -1,4 +1,4 @@
-package metods;
+package metods.inter;
 
 public interface SortAlgorithm {
 
